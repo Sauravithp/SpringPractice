@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="AutoWire" />
+        <module name="SpringQualifiers" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="AutoWire" target="1.5" />
+      <module name="SpringQualifiers" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
