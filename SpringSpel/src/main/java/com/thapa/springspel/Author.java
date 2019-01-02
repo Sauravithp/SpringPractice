@@ -10,9 +10,11 @@ public class Author {
     private String name;
 
     @Value("#{bookBean}")
+//SPEL used to helps in autowiring with the help of beanID
     private Book book;
 
     @Value("#{bookBean.title}")
+//    Using the properties of book bean, we can aslo use the methods as well as the list, map directly from the beanID.
     private  String bookTitle;
 
     public String getName() {
