@@ -3,27 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6ef26f19-de49-48b1-8b86-07870001a811" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/.idea/compiler.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/.idea/libraries/Maven__org_springframework_spring_aop_4_3_12_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/.idea/libraries/Maven__org_springframework_spring_beans_4_3_12_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/.idea/libraries/Maven__org_springframework_spring_context_4_3_12_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/.idea/libraries/Maven__org_springframework_spring_core_4_3_12_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/.idea/libraries/Maven__org_springframework_spring_expression_4_3_12_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/.idea/uiDesigner.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/SpringSpel.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/pom.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/src/main/java/com/thapa/springspel/AppConfig.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/src/main/java/com/thapa/springspel/Author.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/src/main/java/com/thapa/springspel/Book.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/src/main/java/com/thapa/springspel/Program.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/target/classes/com/thapa/springspel/AppConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/target/classes/com/thapa/springspel/Author.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/target/classes/com/thapa/springspel/Book.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringSpel/target/classes/com/thapa/springspel/Program.class" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,18 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="AddController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/f1Soft/src/main/java/com/thapa/spring/AddController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -104,75 +72,20 @@
             <path>
               <item name="SpringPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="f1Soft" type="462c0819:PsiDirectoryNode" />
+              <item name="BankInfo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="f1Soft" type="462c0819:PsiDirectoryNode" />
+              <item name="BankInfo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="f1Soft" type="462c0819:PsiDirectoryNode" />
+              <item name="BankInfo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="f1Soft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="f1Soft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="f1Soft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="thapa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="f1Soft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="thapa" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="f1Soft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="f1Soft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="bankinfo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -295,12 +208,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546428144618</updated>
-      <workItem from="1546428147493" duration="7087000" />
+      <workItem from="1546428147493" duration="8206000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7087000" />
+    <option name="totallyTimeSpent" value="8206000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1375" height="744" extended-state="0" />
