@@ -3,29 +3,35 @@
   <component name="ChangeListManager">
     <list default="true" id="6ef26f19-de49-48b1-8b86-07870001a811" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/.idea/compiler.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/.idea/libraries/Maven__org_springframework_spring_aop_4_3_12_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/.idea/libraries/Maven__org_springframework_spring_beans_4_3_12_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/.idea/libraries/Maven__org_springframework_spring_context_4_3_12_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/.idea/libraries/Maven__org_springframework_spring_core_4_3_12_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/.idea/libraries/Maven__org_springframework_spring_expression_4_3_12_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/.idea/uiDesigner.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/AutoWire.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/pom.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/src/main/java/com/thapa/autowire/Config.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/src/main/java/com/thapa/autowire/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/src/main/java/com/thapa/autowire/Profile.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/src/main/java/com/thapa/autowire/StudentConfig.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/src/main/java/com/thapa/student/Student.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/target/classes/com/thapa/autowire/Config.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/target/classes/com/thapa/autowire/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/target/classes/com/thapa/autowire/Profile.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/target/classes/com/thapa/autowire/StudentConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AutoWire/target/classes/com/thapa/student/Student.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/.idea/libraries/Maven__org_springframework_spring_aop_4_3_12_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/.idea/libraries/Maven__org_springframework_spring_beans_4_3_12_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/.idea/libraries/Maven__org_springframework_spring_context_4_3_12_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/.idea/libraries/Maven__org_springframework_spring_core_4_3_12_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/.idea/libraries/Maven__org_springframework_spring_expression_4_3_12_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/SpringQualifiers.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/EmpConfig.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Employee.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Person.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Profile.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/ProfileConfig.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/StdConfig.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Student.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/target/classes/com/thapa/person/EmpConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/target/classes/com/thapa/person/Employee.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/target/classes/com/thapa/person/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/target/classes/com/thapa/person/Person.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/target/classes/com/thapa/person/Profile.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/target/classes/com/thapa/person/ProfileConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/target/classes/com/thapa/person/StdConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SpringQualifiers/target/classes/com/thapa/person/Student.class" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,6 +56,8 @@
       <list>
         <option value="$PROJECT_DIR$/AutoWire/src/main/java/com/thapa/autowire/Profile.java" />
         <option value="$PROJECT_DIR$/AutoWire/src/main/java/com/thapa/autowire/Config.java" />
+        <option value="$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Profile.java" />
+        <option value="$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Student.java" />
       </list>
     </option>
   </component>
@@ -61,8 +69,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1378" />
+    <option name="width" value="1375" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
@@ -211,15 +218,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546428144618</updated>
-      <workItem from="1546428147493" duration="4607000" />
+      <workItem from="1546428147493" duration="5723000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4607000" />
+    <option name="totallyTimeSpent" value="5723000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <frame x="-8" y="0" width="1375" height="744" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -233,7 +240,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25018397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -296,6 +303,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
           <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/ProfileConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Profile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="20" column="71" lean-forward="false" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/StdConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding />
         </state>
       </provider>

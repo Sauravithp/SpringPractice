@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SpringQualifiers.iml" filepath="$PROJECT_DIR$/SpringQualifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringSpel.iml" filepath="$PROJECT_DIR$/SpringSpel.iml" />
     </modules>
   </component>
 </project>
