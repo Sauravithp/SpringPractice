@@ -2,3 +2,4 @@ Environment and Profiles: One of the main difficulties during the development of
 
 Conditional and Condition Interface: Suppose we want to create beans depending on some specific conditions such as create a bean only if certain bean is declared etc. Thus @conditional annotation was introduced by Spirng 4 and applied to @Bean methods. It works like if..else condition. The class used by @conditional can be of any type that implements the condition interface.
 
+
