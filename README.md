@@ -40,7 +40,7 @@ public class Person {
  }
   .....
 }
-Now we can accessing the values of the collections:
+Now we can access the values of the collections:
 
 @Value("#{person.psal['sauravi']}")
 private Integer sauraviSalary;
