@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ef26f19-de49-48b1-8b86-07870001a811" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Department/build.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Department/manifest.mf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Department/nbproject/build-impl.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Department/nbproject/genfiles.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Department/nbproject/private/private.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Department/nbproject/private/private.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Department/nbproject/project.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Department/nbproject/project.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Department/src/com/thapa/project/Program.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Department/src/com/thapa/project/dao/DepartmentDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Department/src/com/thapa/project/entity/Department.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Department/src/com/thapa/project/impl/Arraylist.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Department/src/com/thapa/project/impl/DepartmentDAOImpl.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Department/src/com/thapa/project/impl/DepatmentDAO.java" afterPath="" />
-    </list>
+    <list default="true" id="3baa168d-7f12-4b78-a61e-29aff1fc4c58" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,23 +11,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="JP.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JP/src/jp/JP.java">
+        <entry file="file://$PROJECT_DIR$/src/jp/JP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-408">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="739">
+              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding>
-                <element signature="e#0#1480#0" expanded="true" />
+                <marker date="1544957848506" expanded="true" signature="625:688" ph="update tbl_s... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -52,11 +34,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AutoWire/src/main/java/com/thapa/autowire/Profile.java" />
-        <option value="$PROJECT_DIR$/AutoWire/src/main/java/com/thapa/autowire/Config.java" />
-        <option value="$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Profile.java" />
-        <option value="$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Student.java" />
-        <option value="$PROJECT_DIR$/SpringSpel/src/main/java/com/thapa/springspel/Author.java" />
+        <option value="$PROJECT_DIR$/src/jp/JP.java" />
       </list>
     </option>
   </component>
@@ -66,15 +44,16 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-8" />
-    <option name="width" value="1375" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
-      <showMembers />
+      <showMembers ProjectPane="true" />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
@@ -86,13 +65,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="SpringPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="JP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jp" type="462c0819:PsiDirectoryNode" />
+              <item name="JP" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
@@ -100,14 +97,16 @@
       </pane>
       <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,7 +153,7 @@
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -162,6 +161,12 @@
       </option>
       <envs />
       <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -183,7 +188,7 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
@@ -197,37 +202,27 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6ef26f19-de49-48b1-8b86-07870001a811" name="Default" comment="" />
-      <created>1546428144618</created>
+      <changelist id="3baa168d-7f12-4b78-a61e-29aff1fc4c58" name="Default" comment="" />
+      <created>1544957251766</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1546428144618</updated>
-      <workItem from="1546428147493" duration="8679000" />
-      <workItem from="1546487773184" duration="823000" />
-      <workItem from="1546583823572" duration="135000" />
+      <updated>1544957251766</updated>
+      <workItem from="1544957261042" duration="1546000" />
+      <workItem from="1545018847916" duration="646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9637000" />
+    <option name="totallyTimeSpent" value="2192000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1375" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -236,19 +231,19 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25018397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.193265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -268,29 +263,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AutoWire/src/main/java/com/thapa/student/Student.java" />
-    <entry file="file://$PROJECT_DIR$/AutoWire/src/main/java/com/thapa/autowire/StudentConfig.java" />
-    <entry file="file://$PROJECT_DIR$/AutoWire/src/main/java/com/thapa/autowire/Main.java" />
-    <entry file="file://$PROJECT_DIR$/AutoWire/src/main/java/com/thapa/autowire/Config.java" />
-    <entry file="file://$PROJECT_DIR$/AutoWire/src/main/java/com/thapa/autowire/Profile.java" />
-    <entry file="file://$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Person.java" />
-    <entry file="file://$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Main.java" />
-    <entry file="file://$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Employee.java" />
-    <entry file="file://$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/ProfileConfig.java" />
-    <entry file="file://$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Profile.java" />
-    <entry file="file://$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/StdConfig.java" />
-    <entry file="file://$PROJECT_DIR$/SpringQualifiers/src/main/java/com/thapa/person/Student.java" />
-    <entry file="file://$PROJECT_DIR$/SpringSpel/src/main/java/com/thapa/springspel/AppConfig.java" />
-    <entry file="file://$PROJECT_DIR$/SpringSpel/src/main/java/com/thapa/springspel/Book.java" />
-    <entry file="file://$PROJECT_DIR$/SpringSpel/src/main/java/com/thapa/springspel/Program.java" />
-    <entry file="file://$PROJECT_DIR$/SpringSpel/src/main/java/com/thapa/springspel/Author.java" />
-    <entry file="file://$PROJECT_DIR$/f1Soft/src/main/java/com/thapa/spring/AddController.java" />
-    <entry file="file://$PROJECT_DIR$/JP/src/jp/JP.java">
+    <entry file="file://$PROJECT_DIR$/src/jp/JP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#1480#0" expanded="true" />
+            <marker date="1544957848506" expanded="true" signature="625:688" ph="update tbl_s... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jp/JP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <marker date="1544957848506" expanded="true" signature="625:688" ph="update tbl_s... " />
           </folding>
         </state>
       </provider>
@@ -298,9 +286,81 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JP</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>JP</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
