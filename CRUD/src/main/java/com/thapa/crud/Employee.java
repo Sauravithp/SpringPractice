@@ -11,6 +11,8 @@ import java.io.Serializable;
 @JsonInclude(JsonInclude.Include.NON_NULL)
 @JsonIgnoreProperties({"contact"})
 @JsonPropertyOrder({"name","id","address","contact"})
+//You can use @Getter and @Setter annotation here from 'lombok' library.
+//Doing so will lessen your code and saves you a lot of time.
 public class Employee implements Serializable{
 
     private int id;
