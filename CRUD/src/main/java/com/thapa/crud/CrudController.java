@@ -30,7 +30,7 @@ public class CrudController {
         mv.setViewName("home");
         return mv;
     }
-    @RequestMapping(value = "/insert",method = RequestMethod.POST)
+    @PostMapping(value = "/insert")
     public ModelAndView form(@ModelAttribute ("emp") Employee emp, BindingResult result){
         ModelAndView mv =new ModelAndView();
         employeeDAO.insert(emp);
@@ -38,7 +38,8 @@ public class CrudController {
         return mv;
     }
 
-    @RequestMapping(value = "/getall",method = RequestMethod.POST)
+    //Why POST request?
+    @PostMapping(value = "/getall")
     public ModelAndView showall(){
         ModelAndView mv =new ModelAndView();
         mv.addObject("EmpInfo",employeeDAO.getAll());
@@ -46,7 +47,7 @@ public class CrudController {
         return mv;
     }
 
-    @RequestMapping(value = "/delete",method = RequestMethod.POST)
+    @PostMapping(value = "/delete")
     public ModelAndView delete(@RequestParam ("id") int id){
         ModelAndView mv =new ModelAndView();
         employeeDAO.delete(id);
@@ -55,8 +56,9 @@ public class CrudController {
 
     }
 
+    // What is @ResponseBody doing here?
     @ResponseBody
-   @GetMapping(value = "/employee")
+    @GetMapping(value = "/employee")
     public List<Employee> getEmployeeList(){
 
     List<Employee> empList=new ArrayList<Employee>();
@@ -71,7 +73,7 @@ public class CrudController {
     employee2.setId(2);
     employee2.setName("Saru");
     employee2.setContact("9865783425");
-//    employee2.setAddress("jawalakhel");
+    employee2.setAddress("jawalakhel");
 
     empList.add(employee1);
     empList.add( employee2);
