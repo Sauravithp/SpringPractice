@@ -1,6 +1,7 @@
 package com.thapa.crud;
 
 import com.thapa.crud.service.EmployeeDAO;
+import com.thapa.crud.service.Rest;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
@@ -28,6 +29,14 @@ public class WebConfig extends WebMvcConfigurerAdapter {
         CrudController crudcontroller = new CrudController();
         crudcontroller.setEmployeeDAO(empdao);
         return crudcontroller;
+    }
+
+    @Bean
+    public Rest rest(EmployeeDAO empdao) {
+//        return new CrudController(empdao);
+        Rest rest=new Rest();
+        rest.setEmployeeDAO(empdao);
+        return rest;
     }
 
 }

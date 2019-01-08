@@ -8,14 +8,12 @@ import org.springframework.stereotype.Component;
 
 import java.io.Serializable;
 
-@JsonInclude(JsonInclude.Include.NON_NULL)
-@JsonIgnoreProperties({"contact"})
-@JsonPropertyOrder({"name","id","address","contact"})
+
 public class Employee implements Serializable{
 
     private int id;
 
-    @JsonProperty("employee_name")
+
     private String name;
 
     private String contact;

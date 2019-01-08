@@ -3,50 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6ef26f19-de49-48b1-8b86-07870001a811" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/.idea/artifacts/AcceptingFormValues_war.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/.idea/artifacts/AcceptingFormValues_war_exploded.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/.idea/compiler.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/.idea/libraries/Maven__javax_servlet_servlet_api_3_0_alpha_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/.idea/libraries/Maven__org_springframework_spring_aop_4_3_12_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/.idea/libraries/Maven__org_springframework_spring_beans_4_3_12_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/.idea/libraries/Maven__org_springframework_spring_context_4_3_12_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/.idea/libraries/Maven__org_springframework_spring_core_4_3_12_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/.idea/libraries/Maven__org_springframework_spring_expression_4_3_12_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/.idea/libraries/Maven__org_springframework_spring_web_4_3_12_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_12_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/.idea/uiDesigner.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/AcceptingFormValues.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/pom.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/src/main/java/com/thapa/form/FormController.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/src/main/java/com/thapa/form/InterceptorHandler.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/src/main/java/com/thapa/form/WebConfig.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/src/main/java/com/thapa/form/WebInit.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/src/main/webapp/WEB-INF/views/form.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/src/main/webapp/WEB-INF/views/result.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/AcceptingFormValues-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/AcceptingFormValues-1.0-SNAPSHOT/WEB-INF/classes/com/thapa/form/FormController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/AcceptingFormValues-1.0-SNAPSHOT/WEB-INF/classes/com/thapa/form/InterceptorHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/AcceptingFormValues-1.0-SNAPSHOT/WEB-INF/classes/com/thapa/form/WebConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/AcceptingFormValues-1.0-SNAPSHOT/WEB-INF/classes/com/thapa/form/WebInit.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/AcceptingFormValues-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/AcceptingFormValues-1.0-SNAPSHOT/WEB-INF/lib/servlet-api-3.0-alpha-1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/AcceptingFormValues-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.12.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/AcceptingFormValues-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.12.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/AcceptingFormValues-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.3.12.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/AcceptingFormValues-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.3.12.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/AcceptingFormValues-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.12.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/AcceptingFormValues-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.3.12.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/AcceptingFormValues-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.12.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/AcceptingFormValues-1.0-SNAPSHOT/WEB-INF/views/form.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/AcceptingFormValues-1.0-SNAPSHOT/WEB-INF/views/result.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/classes/com/thapa/form/FormController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/classes/com/thapa/form/InterceptorHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/classes/com/thapa/form/WebConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AcceptingFormValues/target/classes/com/thapa/form/WebInit.class" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -238,12 +194,12 @@
       <workItem from="1546487773184" duration="823000" />
       <workItem from="1546583823572" duration="699000" />
       <workItem from="1546587789030" duration="568000" />
-      <workItem from="1546842586068" duration="199000" />
+      <workItem from="1546842586068" duration="876000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10968000" />
+    <option name="totallyTimeSpent" value="11645000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1375" height="744" extended-state="0" />
