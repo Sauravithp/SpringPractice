@@ -14,7 +14,7 @@ public class Rest {
 
 
     private EmployeeDAO employeeDAO;
-    int id;
+
 
 
     @Autowired
@@ -81,8 +81,8 @@ public boolean updateEmployee(@PathVariable("name") String name, @RequestBody Em
        return employeeDAO.getAll();
     }
 
-        @RequestMapping(value = "/delete", method = RequestMethod.DELETE)
-    public void delete(@RequestBody int id){
+        @RequestMapping(value = "/delete/{id}", method = RequestMethod.DELETE)
+    public void delete(@PathVariable ("id") int id){
                 employeeDAO.delete(id);
         System.out.println("Data is deleted");
 
