@@ -71,8 +71,9 @@ public boolean updateEmployee(@PathVariable("name") String name, @RequestBody Em
 
 }
     @RequestMapping(value = "/insert",method = RequestMethod.POST)
-    public void form(@RequestBody Employee employee){
+    public ResponseEntity<Boolean> form(@RequestBody Employee employee){
         employeeDAO.insert(employee);
+        return new ResponseEntity<Boolean>(true, HttpStatus.CREATED);
     }
 
     @RequestMapping(value = "/getall",method = RequestMethod.GET)
