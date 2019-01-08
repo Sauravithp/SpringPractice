@@ -59,13 +59,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="SpringPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="CRUD" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -74,6 +78,7 @@
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -195,11 +200,12 @@
       <workItem from="1546583823572" duration="699000" />
       <workItem from="1546587789030" duration="568000" />
       <workItem from="1546842586068" duration="876000" />
+      <workItem from="1546923008092" duration="202000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11645000" />
+    <option name="totallyTimeSpent" value="11847000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1375" height="744" extended-state="0" />
