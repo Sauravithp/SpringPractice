@@ -14,7 +14,7 @@ public class Rest {
 
 
     private EmployeeDAO employeeDAO;
-
+//int id;
 
 
     @Autowired
@@ -61,7 +61,6 @@ public class Rest {
         return employee;
 
     }
-
 @PutMapping(value = "/employee/{name}")
 public boolean updateEmployee(@PathVariable("name") String name, @RequestBody Employee employee){
 
@@ -71,9 +70,12 @@ public boolean updateEmployee(@PathVariable("name") String name, @RequestBody Em
 
 }
     @RequestMapping(value = "/insert",method = RequestMethod.POST)
-    public ResponseEntity<Boolean> form(@RequestBody Employee employee){
+    public void form(@RequestBody Employee employee) throws Exception{
         employeeDAO.insert(employee);
-        return new ResponseEntity<Boolean>(true, HttpStatus.CREATED);
+        String exception= "NullPointer Exception";
+        if(exception.equals("NullPointer Exception")){
+            throw new NullPointerException();
+        }
     }
 
     @RequestMapping(value = "/getall",method = RequestMethod.GET)
@@ -81,12 +83,25 @@ public boolean updateEmployee(@PathVariable("name") String name, @RequestBody Em
        return employeeDAO.getAll();
     }
 
-        @RequestMapping(value = "/delete/{id}", method = RequestMethod.DELETE)
-    public void delete(@PathVariable ("id") int id){
+//    @RequestMapping(value = "/delete/{id}", method = RequestMethod.DELETE)
+//    public void delete(@PathVariable ("id") int id){
+//                employeeDAO.delete(id);
+//        System.out.println("Data is deleted");
+//
+//    }
+
+    @RequestMapping(value = "/delete", method = RequestMethod.DELETE)
+    public void delete(@RequestBody int id) {
                 employeeDAO.delete(id);
         System.out.println("Data is deleted");
 
     }
 
+    //    @RequestMapping(value = "/delete", method = RequestMethod.DELETE)
+//    public void delete(@RequestBody Employee employee){
+//                employeeDAO.delete(employee.getId());
+//        System.out.println("Data is deleted");
+//
+//    }
 
 }

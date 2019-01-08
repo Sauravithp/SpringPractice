@@ -23,13 +23,7 @@ public class WebConfig extends WebMvcConfigurerAdapter {
         return vr;
     }
 
-    @Bean
-    public CrudController crudController(EmployeeDAO empdao) {
-//        return new CrudController(empdao);
-        CrudController crudcontroller = new CrudController();
-        crudcontroller.setEmployeeDAO(empdao);
-        return crudcontroller;
-    }
+
 
     @Bean
     public Rest rest(EmployeeDAO empdao) {
