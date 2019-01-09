@@ -5,18 +5,27 @@
  It is an annotation provided by Spring API used for automatic dependency injection. It can be done in many ways, few of them are:
 - By Properties:
 Autowired can directly be used in the properties as shown in the added code.
+
 -	By Constructor
-##### private Person person;
-##### @Autowired public Employee(Person person)
-##### { this.person =person; }
+
+    ##### private Person person;
+    ##### @Autowired 
+    ##### public Employee(Person person)
+    ##### { this.person =person; }
+    
 -	By Setter Method
- ##### private Person person; 
- ##### @Autowired public void setPerson(Person person)
- ##### { this.person=person; }
+
+    ##### private Person person; 
+    ##### @Autowired
+    ##### public void setPerson(Person person)
+    ##### { this.person=person; }
+    
 -	By any method 
-##### private Person person; 
-##### @Autowired public void insertPerson(Person person)
-##### { this.person=person;}
+
+    ##### private Person person; 
+    ##### @Autowired
+    ##### public void insertPerson(Person person)
+    ##### { this.person=person;}
 
 When a class is injected on another we must wire them in configuration as well. The wiring depends on how the dependency is injected.
 
