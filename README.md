@@ -16,14 +16,15 @@ The objects that are used in the one application is created, managed and wired w
 ## Creating a bean: 
 It can be done explicitly as well as automatically. Annotating a class with the @Configuration annotation indicates that the class will be used by JavaConfig as a source of bean definitions
 
-### Explicitly: 
+#### Explicitly: 
 We annotate a class with @Bean . When JavaConfig encounters such metods, it will execute that method and place the return value as a bean.
 
-### Automatically: 
+#### Automatically: 
 We annotate a class with @Component that declares a spring to create a bean. But doing it isn&#39;t enough. The javaconfig is mentioned with a @ComponentScan below @Configuration. Such that it scans the package mentioned for @Compoent. When @compoent is found a bean is automatically created.
 
-## 
-Scoping Beans: Beans are by default singleton. That means only one instance of bean is created throughout the application. This is better for stateless object but for objects having states using singleton isn&#39;t a proper idea. Spring has provided different types of scope to overcome this issue. They are:
+## Scoping Beans:
+Beans are by default singleton. That means only one instance of bean is created throughout the application. This is better for stateless object but for objects having states using singleton isn&#39;t a proper idea. Spring has provided different types of scope to overcome this issue. 
+#### They are:
 - Singleton: This scope only creates one bean throughout the application.
 - Prototype: This scope creates a new bean each time the bean is loaded into or retrieved from the application context. 
 - Session: It is used in web application, creates a new bean for each session 
