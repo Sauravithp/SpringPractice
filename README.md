@@ -23,7 +23,7 @@ Interceptor is a class that extends HandlerInterceptorAdapter with overriding me
 
 
 ## Postman:
-Postman is a powerful tool for performing test operation with REST API.Since rest api helps in the creation of  independent web services, testing  is done by postman or any such appications.Here the request as well as response is in json or any other dersired format.
+Postman is a powerful tool for performing test operation with REST API.Since rest api helps in the creation of  independent web services, testing  is done by postman or any such appications.Here the request as well as response is in json or any other desired format.
 
 
 
