@@ -27,7 +27,7 @@ Autowired can directly be used in the properties as shown in the added code.
     ##### public void insertPerson(Person person)
     ##### { this.person=person;}
 
-When a class is injected on another we must wire them in configuration as well. The wiring depends on how the dependency is injected.
+When a bean is injected on another we must wire them in configuration as well. The wiring depends on how the dependency is injected.
 
 ### Example:while injecting beans using setter method:
  
