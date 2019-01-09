@@ -24,7 +24,7 @@ We annotate a class with @Component that declares a spring to create a bean. But
 
 ## 
 Scoping Beans: Beans are by default singleton. That means only one instance of bean is created throughout the application. This is better for stateless object but for objects having states using singleton isn&#39;t a proper idea. Spring has provided different types of scope to overcome this issue. They are:
--Singleton: This scope only creates one bean throughout the application.
--Prototype: This scope creates a new bean each time the bean is loaded into or retrieved from the application context. 
+- Singleton: This scope only creates one bean throughout the application.
+- Prototype: This scope creates a new bean each time the bean is loaded into or retrieved from the application context. 
 - Session: It is used in web application, creates a new bean for each session 
 - Request: It is also used in web application, creates a new bean for each request.
