@@ -1,4 +1,4 @@
-#Injecting an interface:
+# Injecting an interface:
 
  Autowiring helps to reduce the explicit Configuration but it works when the only bean matches the desired requirements. While using interface with many implementations in dependency injection ambiguity can be seen. Since many bean matches the desired result spring won't be able to decide which bean is to be executed resulting in an execption. However Spring provides some solutions to avoid these ambiguity.
  
