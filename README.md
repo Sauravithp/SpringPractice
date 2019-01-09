@@ -29,6 +29,15 @@ Autowired can directly be used in the properties as shown in the added code.
 
 When a class is injected on another we must wire them in configuration as well. The wiring depends on how the dependency is injected.
 
+### Example:while injecting beans using setter method:
+ 
+ #####  @Bean
+ #####  public Rest rest(EmployeeDAO empdao) {
+ #####        Rest rest=new Rest();
+ #####       rest.setEmployeeDAO(empdao);
+ #####    return rest;
+ #####  }
+
 Spring expects @Autowired dependencies to be available whenever the dependent bean is being constructed. If the sprimg framework cannot find a bean for wiring, it will throw the exception, preventing the container from initiating.Thus, to avoid this we can add some extra attritbute as shown below:
 
 #####  @Autowired(required = false)
