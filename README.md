@@ -3,19 +3,19 @@ Array is a collection of similar type of elements  that are referred  by a commo
 
 One of the class used extensively is ArrayList that implements List interface. It provides us dynamic arrays having many useful methods that are:
 
--	add()
+-	add(): 
 It is used to add data to the arraylist.
 
--	get()
+-	get(): 
 It is used to access the data stored in the list.
 
--	set()
+-	set(): 
 It is used to modify the data stored in the list.
 
--	remove()
+-	remove(): 
 It is used to delete the data that the list contains.
 
--	size()
+-	size(): 
 It is used to determine the total number of data that the list contains.
 
 It  has many other methods that makes the data storing  flexible.
