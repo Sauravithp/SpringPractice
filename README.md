@@ -3,6 +3,9 @@ Spring consist of six modules in which mvc is one of them.It is a web applicatio
 
 Spring mvc is designed around the logic of **dispatcher servlet pattern**.When an end user sends a request it is first handled by a front controller (dispatcherservlet) which determines to which controller the request must be send for futher processing.The logic performed by the controller must be returned and displayed in the browser.The raw information known as model isn’t sufficient while sending it back to the end user.It needs a decorated page(user-friendly) called as view page.Controller doesn’t couple up with the view page but sends back model with the logic name of view page to dispatcher servlet.Even Default servlet  has no idea which view to render.It only carries logical name send by controller.Thus,Dispatcher servlet uses view resolver which returns the required view page.
 
+Since we are doing java based configuration over xml based.We  create a front controller extending  an abstract class AbstractAnnotationConfigDispatcherServletInitializer that consist of three methodswhich is similar to web.xml. The first method used is getServletMappings() that maps to /, indicating that it  will be handling all requests coming into the application.Another method used is getRootConfigClasses() where DispatcherServlet load its application context with beans defined in the WebConfig configuration class. WebConfig class extends WebMvcConfigurerAdapter which is annotated with @EnableWebMVC( which is used to enable annotation driven spring mvc conifuring the special bans that would not have been configured if we don’t use this) and
+@ComponentScan( such that it scans for @Controller such that  won’t have to
+explicitly declare any controllers in the configuration class).Next, we add a ViewResolver bean. More specifically, it’s an InternalResourceViewResolver that helps to return the required view page.
 
 
 ## Creating a controller:
