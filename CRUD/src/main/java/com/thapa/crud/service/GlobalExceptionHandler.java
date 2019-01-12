@@ -23,6 +23,9 @@ public class GlobalExceptionHandler {
     @ExceptionHandler(value = Exception.class)
     public String handleException(ArithmeticException e){
         System.out.println("Exception has occured");
+        //SMALL ERROR HERE! 
+        //LESS COPY AND PASTE ;)
+        //REMOVE THE COMMENTS AFTER YOU'VE FIXED IT.
         return "Arithmetic Exception has occured";
     }
 }
