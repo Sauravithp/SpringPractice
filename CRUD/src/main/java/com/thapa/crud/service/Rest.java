@@ -15,8 +15,10 @@ public class Rest {
 
     private EmployeeDAO employeeDAO;
 //int id;
+    
+    
 
-
+    //ANY REASONS TO @Autowire THE SETTER METHOD (IN PARTICULAR)
     @Autowired
     public void setEmployeeDAO(EmployeeDAO employeeDAO) {
         this.employeeDAO = employeeDAO;
@@ -65,13 +67,18 @@ public class Rest {
 public boolean updateEmployee(@PathVariable("name") String name, @RequestBody Employee employee){
 
     System.out.println("Employee Name:"+name);
+    //THIS IS BAD FORMATING OF THE CODE ;)
     System.out.println("Employee Name:"+employee.getName()+"Employee id"+employee.getId()+"Employee Contact"+employee.getContact()+"Employee Address"+employee.getAddress());
     return true;
 
 }
+    //TRY USING ALT+SHIFT+F EVERY ONCE IN A WHILE
+    //DOING SO WILL FORMAT YOUR CODE FOR YOU
     @RequestMapping(value = "/insert",method = RequestMethod.POST)
     public void form(@RequestBody Employee employee) throws Exception{
         employeeDAO.insert(employee);
+        //I DIDN'T UNDERSTAND WHY YOU'D DONE THIS?
+        //MUST BE A DELIBERATE WAY TO TEST NULL POINTER EXCEPTION ?
         String exception= "NullPointer Exception";
         if(exception.equals("NullPointer Exception")){
             throw new NullPointerException();
@@ -96,6 +103,8 @@ public boolean updateEmployee(@PathVariable("name") String name, @RequestBody Em
         System.out.println("Data is deleted");
 
     }
+    
+    //NOW THAT YOU'RE DOING @RESTful Webservice, TRY EXPLORING 'ResponseEntity'
 
     //    @RequestMapping(value = "/delete", method = RequestMethod.DELETE)
 //    public void delete(@RequestBody Employee employee){
