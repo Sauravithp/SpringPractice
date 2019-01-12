@@ -21,6 +21,9 @@ public class WebConfig extends WebMvcConfigurerAdapter {
         vr.setSuffix(".jsp");
         return vr;
     }
+    
+    //IS IT MANDATORY TO ADD 'addPathPattern()' ?
+    //WHY NOT TRY WITHOUT ONE? ;)
 
     @Override
     public void addInterceptors(InterceptorRegistry registry) {
