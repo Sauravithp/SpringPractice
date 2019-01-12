@@ -7,6 +7,7 @@ import org.springframework.stereotype.Component;
 import java.util.ArrayList;
 import java.util.List;
 
+// IF THIS IS YOUR INTENDED REPOSITORY CLASS, YOU CAN USE '@Repository' HERE INSTEAD OF '@Component'
 @Component
 public class EmployeeImpl implements EmployeeDAO {
 
