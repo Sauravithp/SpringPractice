@@ -2,7 +2,7 @@
 Spring Restful Web Services is based on the concept of Spring MVC where the testing portion is done without the frontend.It creates a backend in such a way that it is **independent on the frontend**. It works similar to mvc, the only difference is it simply instructs the spring to not look for view page to prepare the final response. Rather the controlller converts the response in desired format(xml, json) and send it to the client.
  
 ## @ResponseBody:
-It is the annotation added to  the method in the controller to notify that the return response is to be converted to a specific format like Json,XML etc.But adding this annotation isn't enough the library as per the format is to be added on the application.The @ResponseBody is follwed by @ResquestMapping to mention the kind of requests they will handle.
+It is the annotation added to  the method in the controller to notify that the return response is to be converted to a specific format like Json,XML etc. But adding this annotation to the library/ api isn't enough as it also requires the request format that needs to be added on the same.The @ResponseBody is follwed by @RequestMapping to mention the kind of requests they will handle.
 
 ## @RestController:
 A controller containing both mvc and rest isn't a proper way of coding.So, @RestController annotation was introduced  to simplify the creation of RESTful web services.It combines @ResponseBody and @Controller such that it puts an end to annotate every request handling method with the @ResponseBody.
