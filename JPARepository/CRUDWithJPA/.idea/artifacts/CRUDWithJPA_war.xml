@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CRUDWithJPA:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="crudwithjpa-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="CRUDWithJPA:war exploded" />
+    </root>
+  </artifact>
+</component>
