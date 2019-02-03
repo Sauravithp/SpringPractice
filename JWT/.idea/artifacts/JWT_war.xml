@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JWT:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jwt-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="JWT:war exploded" />
+    </root>
+  </artifact>
+</component>
