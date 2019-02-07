@@ -10,8 +10,8 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 @Configuration
 @EnableWebMvc
 @ComponentScan(basePackages = {"com.thapa.jwt.configuration",
-        "com.thapa.jwt.entity","com.thapa.jwt.controller",
-        "com.thapa.jwt.service","com.thapa.jwt.jwt"})
+        "com.thapa.jwt.entity", "com.thapa.jwt.controller",
+        "com.thapa.jwt.service", "com.thapa.jwt.globalexceptionhandler"})
 public class WebConfig extends WebMvcConfigurerAdapter {
 
     @Override

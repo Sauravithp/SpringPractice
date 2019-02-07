@@ -33,6 +33,7 @@ public class DataSourceConfiguration {
 
         return em;
     }
+
     @Bean
     public PlatformTransactionManager transactionManager(
             EntityManagerFactory emf) {

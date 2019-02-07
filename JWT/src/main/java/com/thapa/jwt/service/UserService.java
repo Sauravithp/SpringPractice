@@ -7,6 +7,8 @@ import java.util.List;
 public interface UserService {
 
     void insert(UserDetails userDetails);
-    Boolean search(String firstname,String password);
+
+    Boolean search(String firstname, String password);
+
     List<UserDetails> getAll();
 }

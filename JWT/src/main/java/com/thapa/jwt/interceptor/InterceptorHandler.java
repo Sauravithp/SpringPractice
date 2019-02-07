@@ -1,10 +1,6 @@
 package com.thapa.jwt.interceptor;
 
-import com.auth0.jwt.JWT;
-import com.auth0.jwt.JWTVerifier;
-import com.auth0.jwt.algorithms.Algorithm;
-import com.auth0.jwt.interfaces.DecodedJWT;
-import org.springframework.context.annotation.Configuration;
+import com.thapa.jwt.utility.TokenHandler;
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 
@@ -17,13 +13,7 @@ public class InterceptorHandler extends HandlerInterceptorAdapter {
     public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
 
         if (request.getHeader("Authorization") != null) {
-            Algorithm algorithm=Algorithm.HMAC256("secret");
-            System.out.println(algorithm);
-            JWTVerifier verifier = JWT.require(algorithm).withIssuer("auth0").build();
-            System.out.println(verifier);
-            DecodedJWT jwt = verifier.verify(request.getHeader("Authorization"));
-            System.out.println(jwt);
-            if(jwt != null) {
+            while (TokenHandler.jwtValidator(request.getHeader("Authorization"))) {
                 return true;
             }
         }
